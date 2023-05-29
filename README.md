@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FurkanJutt
 - 👀 I’m interested in Game Development.
 - 👀 I’m interested in Mobile Application Development.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning New Technologies
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me @FurkanJutt
 
